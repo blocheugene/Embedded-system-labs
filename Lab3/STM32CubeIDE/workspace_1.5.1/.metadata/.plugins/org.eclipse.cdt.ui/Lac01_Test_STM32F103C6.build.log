@@ -1,0 +1,32 @@
+19:01:10 **** Incremental Build of configuration Debug for project Lac01_Test_STM32F103C6 ****
+make -j4 all 
+arm-none-eabi-gcc "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" -std=gnu11 -g -c -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.d" -MT"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o"
+arm-none-eabi-gcc "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" -std=gnu11 -g -c -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.d" -MT"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o"
+arm-none-eabi-gcc "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" -std=gnu11 -g -c -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.d" -MT"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o"
+arm-none-eabi-gcc "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c" -std=gnu11 -g -c -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.d" -MT"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.o"
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c:85:10: fatal error: stm32f1xx_hal.h: No such file or directory
+ #include "stm32f1xx_hal.h"
+          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c:36:10: fatal error: stm32f1xx_hal.h: No such file or directory
+ #include "stm32f1xx_hal.h"
+          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:83:10: fatal error: stm32f1xx_hal.h: No such file or directory
+ #include "stm32f1xx_hal.h"
+          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c:87:10: fatal error: stm32f1xx_hal.h: No such file or directory
+ #include "stm32f1xx_hal.h"
+          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk:58: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o] Error 1
+make[1]: *** Waiting for unfinished jobs....
+make[1]: *** [Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk:56: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o] Error 1
+make[1]: *** [Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk:54: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o] Error 1
+make[1]: *** [Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk:60: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.o] Error 1
+make: *** [makefile:70: all] Error 2
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+19:01:11 Build Failed. 10 errors, 0 warnings. (took 1s.187ms)
+

@@ -1,0 +1,603 @@
+!SESSION 2021-11-13 17:33:10.160 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-13 17:34:41.113
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-13 17:34:41.183
+!MESSAGE Log4j initialized with config file C:\Users\Alex\STM32CubeIDE\workspace_1.5.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-13 17:34:43.731
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-11-13 17:34:44.899
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-13 17:38:04.643
+!MESSAGE Indexed 'Lac01_Test_STM32F103C6' (19 sources, 77 headers) in 4.55 sec: 3,603 declarations; 12,980 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2021-11-13 18:46:12.745 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-13 18:46:19.852
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-13 18:46:19.927
+!MESSAGE Log4j initialized with config file C:\Users\Alex\STM32CubeIDE\workspace_1.5.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-13 18:46:27.640
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-11-13 18:46:28.997
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:25.838
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:25.839
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:26.308
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:28.081
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:28.311
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:28.311
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:51.195
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:51.195
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.899
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.899
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.899
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.899
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.914
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.915
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.915
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.915
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.915
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.931
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.947
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.952
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.952
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.952
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.952
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.962
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.966
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.968
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.968
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.968
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.968
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:54.984
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:55.634
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:55.634
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:55.823
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:49:55.823
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:35.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:35.747
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.406
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.406
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.406
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.406
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.413
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.414
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.417
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.418
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.426
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.428
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.428
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.428
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.434
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.436
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.438
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.439
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.441
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.442
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.447
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.448
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.450
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:39.450
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:40.327
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:40.329
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:40.458
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:56:40.458
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:31.448
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:31.464
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.745
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.760
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.779
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.779
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.779
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.779
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.827
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.827
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:34.827
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:35.692
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:35.692
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:35.826
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 18:57:35.826
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.303
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.305
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.307
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.309
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.312
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.312
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.315
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.315
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.335
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.336
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.339
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.341
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.342
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.346
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.348
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.351
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.352
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.355
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.358
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.361
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.362
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:31.373
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:32.328
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:32.328
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:32.463
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:32.463
+!MESSAGE Failed to get MCU from name: 
+!SESSION 2021-11-13 19:00:49.207 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-13 19:00:56.246
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-13 19:00:56.332
+!MESSAGE Log4j initialized with config file C:\Users\Alex\STM32CubeIDE\workspace_1.5.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:59.063
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:00:59.078
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-13 19:01:03.619
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-11-13 19:01:04.789
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.517
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.517
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.517
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.517
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.517
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.533
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.533
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.545
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.552
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.568
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.568
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.568
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.568
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.568
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.580
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.584
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:10.596
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:12.067
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:12.067
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:12.308
+!MESSAGE Failed to get MCU from name: 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none 4 4 2021-11-13 19:01:12.308
+!MESSAGE Failed to get MCU from name: 
+!SESSION 2021-11-13 19:02:03.376 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 567 2021-11-13 19:02:05.540
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2021-11-13 19:02:05.540
+!MESSAGE Could not read metadata for 'Lac01_Test_STM32F103C6'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/Lac01_Test_STM32F103C6)[567]: java.lang.Exception: The project description file (.project) for 'Lac01_Test_STM32F103C6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:843)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:835)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1015)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:493)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:571)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:398)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2021-11-13 19:02:05.540
+!MESSAGE The project description file (.project) for 'Lac01_Test_STM32F103C6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'Lac01_Test_STM32F103C6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:843)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:835)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1015)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:493)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:571)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:398)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-13 19:02:11.247
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-13 19:02:11.317
+!MESSAGE Log4j initialized with config file C:\Users\Alex\STM32CubeIDE\workspace_1.5.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-13 19:02:16.409
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-11-13 19:02:17.416
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-13 19:03:51.424
+!MESSAGE Indexed 'Lab01_Test_STM32F103C6' (19 sources, 77 headers) in 4.43 sec: 3,603 declarations; 12,980 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
