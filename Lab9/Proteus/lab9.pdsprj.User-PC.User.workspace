@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000000000001000000ffffffffffffffffffffffffffffffffb20000000c000000ce060000fa030000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="VSMSTUDIO">
+   <FILE NAME="STM32F103C6/cmsis/core/core_cm3.h"/>
+   <FILE NAME="STM32F103C6/cmsis/core/core_cmFunc.h"/>
+   <FILE NAME="STM32F103C6/cmsis/core/core_cmInstr.h"/>
+   <FILE NAME="STM32F103C6/cmsis/device/system_stm32f1xx.h"/>
+   <FILE NAME="STM32F103C6/cmsis/device/stm32f1xx.h"/>
+   <FILE NAME="STM32F103C6/cmsis/device/stm32f103x6.h"/>
+   <FILE NAME="STM32F103C6/cmsis/core/core_cm3.c"/>
+   <FILE NAME="STM32F103C6/crt.c"/>
+   <FILE NAME="STM32F103C6/vtable.c"/>
+   <FILE ACTIVE="TRUE" NAME="STM32F103C6/cmsis/device/system_stm32f1xx.c"/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAACs/wCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAACswAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAHEA////AAAAAwAABgIAAAB8/AEAAAAB+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAAAAAGAgAAAFsA////AAAE/QAAArMAAAABAAAAAgAAAAgAAAAC/AAAAAA="/>
+   <PROJECT ACTIVE="TRUE" NAME="STM32F103C6" CONFIGURATION="Debug">
+    <PROGRAMMER NAME="" INTERFACE=""/>
+   </PROJECT>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
